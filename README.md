@@ -38,7 +38,7 @@ The dataset required several cleaning steps to ensure accurate analysis. The cle
 - Removing duplicates
 - Deleting unused columns
 
-The data cleaning scripts and their execution are explained in the `CleaningPortfolioProject.sql` file.
+The data cleaning scripts and their execution are explained in the `NashvilleHousingCleaning.sql` file.
 
 ## Data Analysis
 
@@ -53,7 +53,7 @@ The data analysis scripts and their execution are explained in the `NashvilleHou
 ## How to Run
 
 1. Make sure you have access to the NashvilleHousing dataset in your database.
-2. Execute the data cleaning scripts from the `CleaningPortfolioProject.sql` file to clean the dataset.
+2. Execute the data cleaning scripts from the `NashvilleHousingCleaning.sql` file to clean the dataset.
 3. Execute the data analysis scripts from the `NashvilleHousingAnalysis.sql` file to perform analysis on the cleaned dataset.
 
 ## Conclusion
