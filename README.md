@@ -105,5 +105,5 @@ The project generates a variety of visualizations that provide insights into the
 - Generated plots are saved in the Visualization/ folder.
 
 
-License
+## License
 This project is licensed under the MIT License.
