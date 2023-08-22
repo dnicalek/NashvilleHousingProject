@@ -92,17 +92,17 @@ Before running the nashvilleHousingVisualization.py script, ensure to configure 
 ## Results and Visualizations
 The project generates a variety of visualizations that provide insights into the NashvilleHousing dataset. The visualizations include:
 
--Unique values and occurrences from the LandUse column.
--Average sale price by land use.
--Average sale price of single-family houses by the number of bedrooms.
--Distribution of the number of bedrooms for single-family houses.
--Average selling price depending on the number of bathrooms.
--Top 5 properties with the highest total value after 2008.
--Most common years of construction by land use.
--Real estate sales statistics broken down by years of construction.
--Average sale price for various combinations of bedrooms and land use.
--Number of properties sold in different price ranges by the year of construction.
--Generated plots are saved in the Visualization/ folder.
+- Unique values and occurrences from the LandUse column.
+- Average sale price by land use.
+- Average sale price of single-family houses by the number of bedrooms.
+- Distribution of the number of bedrooms for single-family houses.
+- Average selling price depending on the number of bathrooms.
+- Top 5 properties with the highest total value after 2008.
+- Most common years of construction by land use.
+- Real estate sales statistics broken down by years of construction.
+- Average sale price for various combinations of bedrooms and land use.
+- Number of properties sold in different price ranges by the year of construction.
+- Generated plots are saved in the Visualization/ folder.
 
 
 License
